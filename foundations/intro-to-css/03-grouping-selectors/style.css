@@ -1,0 +1,14 @@
+.click-me, 
+.click-me-1 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click-me {
+    background-color: black;
+    color: rgb(173, 206, 234);
+}
+
+.click-me-1{
+    background-color: yellowgreen;
+}
